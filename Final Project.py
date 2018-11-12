@@ -23,7 +23,7 @@ sportsutility = 6000
 truck = 10000
 luxury = 20000
 militaryGrade = 40000
-#Paintjob [multiply patterns by paint type]
+#Paintjob Variables [multiply patterns by paint type]
 solid = 200
 metallic = 500
 pearlescent = 2000
@@ -33,13 +33,14 @@ multicolored = 1.5
 camo = 2
 racingStripe = 1.3
 customDecal = 3
-#Interior
+#Interior Variables
 fabric = 500
 pLeather = 1000
 standardLeather = 2500
 luxuryLeather = 10000
-#Extras
-vibrationSeats = 2000
+#Extra Feature Variables
+vibratingSeats = 2000
+heatedSeats = 2000
 upgradedSpeakers = 2500
 luxurySpeakers = 8000
 powerSteering = 1000
@@ -47,6 +48,10 @@ armoredPlating = 25000
 bulletresistantWindows = 10000
 nitro = 5000
 extraStorage = 4000
-
-
+amphibious = 12000
+antiTheft = 2500
+selfDriving = 10000
+entertainmentSystem = 5000
+GPS = 500
+#Menu Variables
 
